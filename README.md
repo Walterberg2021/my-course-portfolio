@@ -14,5 +14,5 @@ Welcome to my academic portfolio for [Course Name]!
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
 
-## Projects
+## Projects2
 *This section will be updated as I complete assignments*
